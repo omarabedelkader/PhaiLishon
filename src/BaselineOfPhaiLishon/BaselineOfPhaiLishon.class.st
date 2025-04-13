@@ -11,7 +11,7 @@ BaselineOfPhaiLishon >> baseline: spec [
 	
 	spec for: #common do: [ 
 		spec package: 'PhaiLishon-Model' with: [ 
-			spec requires: 'PhaiLishon-APIl' ].
+			spec requires: 'PhaiLishon-API' ].
 		].
 	
 
