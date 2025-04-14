@@ -4,8 +4,8 @@ Class {
 	#instVars : [
 		'model'
 	],
-	#category : 'PhaiLishon-API-Tests',
-	#package : 'PhaiLishon-API-Tests'
+	#category : 'PhaiLishon-Tests',
+	#package : 'PhaiLishon-Tests'
 }
 
 { #category : 'running' }
